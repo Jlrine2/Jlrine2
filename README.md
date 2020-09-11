@@ -1,6 +1,8 @@
-### Hello! 👋
+## Hello! 👋
 
 I'm a DevOps Engineer and Software Developer always enthusiastic to try out new technology or learn new things. I like to build cool things and enjoy working with Raspberry Pi's, AWS, Linux, and More.
+
+### Technologies
 <p>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -18,5 +20,4 @@ I'm a DevOps Engineer and Software Developer always enthusiastic to try out new 
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
-
 
