@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm a DevOps Engineer and Software Developer always enthusiastic to try out new technology or learn new things. I like to build cool things and enjoy working with Raspberry Pi's, AWS, Linux, and More.
+I'm a DevOps Engineer and Software Developer always enthusiastic to try out new technology or learn new things. I like to build cool things and enjoy working with Raspberry Pi's, AWS, Linux, and more.
 
 ### Technologies
 <p>
